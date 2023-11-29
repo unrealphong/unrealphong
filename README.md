@@ -26,6 +26,6 @@
  
 <a align="center" href="https://github.com/phonglenus">
   <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=phonglenus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="left">
-  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=DungKM&theme=city_light&hide_border=false">
+  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=phonglenus&theme=city_light&hide_border=false">
  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phonglenus&layout=compact&langs_count=8&theme=algolia">
 </a>
