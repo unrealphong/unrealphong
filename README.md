@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h3 align="center">Hey there, I'm <a href="">Hong Phong Le</a> - <i>@phonglenus</i> </h3>
+<h3 align="center">Hey there, I'm <a href="">Hong Phong (Henry) Le</a> - <i>@unrealphong</i> </h3>
 
 <br>
 <p align="center">
