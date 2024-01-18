@@ -1,31 +1,40 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h3 align="center">Hey there, I'm <a href="">Hong Phong (Henry) Le</a> - <i>@unrealphong</i> </h3>
-
-<br>
+<h3 align="center">
+  <samp>Hey there, I'm <a href="#">Hong Phong (Henry) Le</a> - <i>@unrealphong</i></b></samp>
+</h3>
 <p align="center">
-<a href="mailto:hongphongle115@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.reddit.com/user/phonglh"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
+  <br>
+  <samp>
+    「 Software Engineering Bachelor @ <b>FPT University</b> 」
+  </samp>
+</p>
+<details align="center">
+  <summary>
+    <samp>&#9776; Details</samp>
+  </summary>
+  <p align="center">
+    <br>
+  <a href="#">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=unrealphong" />
+  </a>
+  <a href="#">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unrealphong&layout=compact&langs_count=8&card_width=320" />
+  </a>
+    <br>
+    Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="/resume.md">Resumé</a><br>
+    <a href="https://github.com/unrealphong?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+    <a href="https://github.com/unrealphong" target="_blank"></a>
+    <a href="https://github.com/dunkbing/unrealphong" target="_blank">
+      <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/unrealphong/unrealphong?label=profile%20updated&style=flat-square">
+    </a>
+    </samp>
+  </p>
+</details>
 <br>
-<br>
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
- 
-<br>
-<div>
-    <h2>👨🏻‍💻 About Me</h2>
-<br>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
- 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Github Stats
- 
-<a align="center" href="https://github.com/unrealphong">
-  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=unrealphong&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="left">
-  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=unrealphong&theme=city_light&hide_border=false">
- <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=unrealphong&layout=compact&langs_count=8&theme=algolia">
-</a>
+<samp>
+  <p align="center">
+    ════ ⋆★⋆ ════<br>
+    From <a href="https://github.com/unrealphong/unrealphong">unrealphong</a>
+  </p>
+</samp>
