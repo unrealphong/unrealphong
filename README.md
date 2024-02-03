@@ -16,10 +16,10 @@
   <p align="center">
     <br>
   <a href="#">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=unrealphong" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=unrealphong" />
   </a>
   <a href="#">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unrealphong&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=unrealphong&layout=compact&langs_count=8&card_width=320" />
   </a>
     <br>
     Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="/resume.md">Resumé</a><br>
